@@ -7,4 +7,4 @@ This is my first personal portfolio website
 
 4.  I added data fetching colum after testimonial
 
-5. Live link of project : 
+5. Live link of project : https://sonkamblevishal.github.io/personal_portfolio2022/
